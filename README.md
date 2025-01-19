@@ -1,5 +1,8 @@
 # asteroids
-Asteroids game made using pygame
+Asteroids game made using pygame.
+- Use w and s to move forward or backward.
+- Use a and d to turn.
+- Use space to shoot.
 
 Possible future implementations:
 - Add a scoring system
