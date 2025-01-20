@@ -4,6 +4,11 @@ Asteroids game made using pygame.
 - Use a and d to turn.
 - Use space to shoot.
 
+- Large, medium, and small asteroids spawn
+- Large asteroids split into two medium asteroids when hit
+- Medium asteroids split into two small asteroids when hit
+- Small asteroids disappear when hit
+
 Possible future implementations:
 - Add a scoring system
 - Implement multiple lives and respawning
