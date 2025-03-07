@@ -1,5 +1,10 @@
 # asteroids
 Asteroids game made using pygame version 2.6.1.
+## Steps to use:
+1. Download source
+2. Run python3 main.py
+
+## Controls:
 - Use w and s to move forward or backward.
 - Use a and d to turn.
 - Use space to shoot.
@@ -9,7 +14,7 @@ Asteroids game made using pygame version 2.6.1.
 - Medium asteroids split into two small asteroids when hit
 - Small asteroids disappear when hit
 
-Possible future implementations:
+## Possible future implementations:
 - Add a scoring system
 - Implement multiple lives and respawning
 - Add an explosion effect for the asteroids
