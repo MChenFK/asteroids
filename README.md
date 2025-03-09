@@ -9,6 +9,7 @@ Asteroids game made using pygame version 2.6.1.
 - Use a and d to turn.
 - Use space to shoot.
 
+## Rules:
 - Large, medium, and small asteroids spawn
 - Large asteroids split into two medium asteroids when hit
 - Medium asteroids split into two small asteroids when hit
